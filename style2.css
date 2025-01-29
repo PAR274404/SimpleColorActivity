@@ -1,0 +1,22 @@
+/* body{
+    text-align: center;
+
+}
+div{
+    height: 300px;
+    width: 600px;
+    border: 2px solid black;
+    margin: auto;
+} */
+
+/* 2nd time practice */
+body{
+    text-align: center;
+}
+div{
+    height: 300px;
+    width: 600px;
+    border: 2px solid black;
+    margin:auto;
+    background-color: aqua;
+}
